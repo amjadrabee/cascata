@@ -192,6 +192,7 @@ const stakeholders = [
   ["Aldar", "portfolio/aldar.jpeg"],
   ["Miral", "portfolio/miral.jpeg"],
   ["DAMAC", "portfolio/damac.jpeg"],
+  ["MERCEDES", "portfolio/MERCEDES.jpeg"],
   ["ENEC", "portfolio/enec.jpeg"],
   ["ADEK", "portfolio/adek.jpeg"],
   ["AD Ports", "portfolio/ad-ports.jpeg"],
