@@ -152,8 +152,8 @@ const dict = {
   "ct.email": { en: "Email", ar: "البريد الإلكتروني" },
   "ct.location": { en: "Location", ar: "الموقع" },
   "ct.addr": {
-    en: "OFC-M01, Mezzanine Floor, Bldg No. C203, Shabiya 12, MBZ City, P.O. Box: 137547, Abu Dhabi, UAE",
-    ar: "OFC-M01، الميزانين، مبنى رقم C203، شعبية 12، مدينة محمد بن زايد، ص.ب: 137547، أبوظبي، الإمارات",
+    en: "Ath Tharwat Street, Off Al Manhal Street Zone ME12, Mohammed Bin Zayed City Abu Dhabi, United Arab Emirates",
+    ar: "شارع ثروت، متفرع من شارع المنهل، المنطقة ME12، مدينة محمد بن زايد، أبوظبي، الإمارات العربية المتحدة",
   },
   "form.name": { en: "Name", ar: "الاسم" },
   "form.phone": { en: "Phone number", ar: "رقم الهاتف" },
