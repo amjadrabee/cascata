@@ -535,7 +535,6 @@ function renderServices() {
     ["wetarea.jpg", "bath", "svc.c.t", "svc.c.b"],
     ["injection.jpg", "syringe", "svc.d.t", "svc.d.b"],
     ["repair.jpg", "wrench", "svc.e.t", "svc.e.b"],
-    ["flooring.jpg", "square", "svc.f.t", "svc.f.b"],
   ];
   return renderSection("services", `
     <div class="text-center mb-section">
